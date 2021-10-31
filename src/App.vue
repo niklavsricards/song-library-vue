@@ -1,10 +1,19 @@
 <template>
+  <h1>Song Library</h1>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Songs</router-link> |
+    <router-link to="/add">Add Song</router-link>
   </div>
   <router-view/>
 </template>
+
+<script>
+
+export default {
+  name: 'App',
+  components: {}
+}
+</script>
 
 <style>
 #app {
