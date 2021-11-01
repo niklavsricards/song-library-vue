@@ -9,4 +9,4 @@
 
 ## Additional information
 
-Data is fetched from a REST API. You need [this project](https://github.com/niklavsricards/song-library-api) to run the project completely.
+Data is fetched from a REST API. You need [this project](https://github.com/niklavsricards/song-library-api) to run the app completely.
